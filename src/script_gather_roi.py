@@ -14,7 +14,6 @@ import argparse
 from scipy.ndimage.measurements import center_of_mass
 from scipy.ndimage import gaussian_filter1d
 import sys
-sys.path.append("../libs")
 from tiff import Tiff
 
 
